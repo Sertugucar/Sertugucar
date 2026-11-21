@@ -13,7 +13,7 @@
 <tr>
 <td width="60%">
 
-I'm a first-year Electronics and Communications Engineering student at Kocaeli University. I'm exploring embedded systems and avionics while developing my programming skills through practical projects.
+I'm a first-year Electronics and Communications Engineering student at Kocaeli University. I'm exploring embedded systems  while developing my programming skills through practical projects.
 
 - 🎓 **Education:** Electronics and Communications Engineering, Kocaeli University
 - 📚 **Year:** First year
