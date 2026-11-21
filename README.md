@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Electronics & Communications Engineering Student</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Exploring-Embedded%20Systems%20%26%20Avionics-00B8D4?style=for-the-badge" alt="Exploring Embedded Systems and Avionics">
+  <img src="https://img.shields.io/badge/Exploring-Embedded%20Systems%20%26%20Avionics-00B8D4?style=for-the-badge" alt="Exploring Embedded Systems ">
 </p>
 
 ---
