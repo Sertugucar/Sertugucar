@@ -17,7 +17,7 @@ I'm a first-year Electronics and Communications Engineering student at Kocaeli U
 
 - 🎓 **Education:** Electronics and Communications Engineering, Kocaeli University
 - 📚 **Year:** First year
-- 🔭 **Interests:** Embedded systems and avionics
+- 🔭 **Interests:** Embedded systems 
 - 💻 **Projects:** Java applications and web development
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sertu%C4%9F-u%C3%A7ar-191a34377/)
 
